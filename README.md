@@ -77,17 +77,11 @@ app/build/outputs/apk/debug/app-debug.apk
 - Kotlin Coroutines
 - MyMemory Translation API untuk menerjemahkan sinopsis ke Bahasa Indonesia
 
-## Screenshot Home
+## Screenshot Aplikasi
 
-![Screenshot Home 1](docs/screenshots/home-1.jpeg)
-
-![Screenshot Home 2](docs/screenshots/home-2.jpeg)
-
-## Screenshot Detail
-
-![Screenshot Detail 1](docs/screenshots/detail-1.jpeg)
-
-![Screenshot Detail 2](docs/screenshots/detail-2.jpeg)
+| Home | Detail |
+| --- | --- |
+| <img src="docs/screenshots/home-1.jpeg" alt="Screenshot Home" width="260"/> | <img src="docs/screenshots/detail-1.jpeg" alt="Screenshot Detail" width="260"/> |
 
 ## API yang Digunakan
 
