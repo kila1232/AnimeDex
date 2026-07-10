@@ -1,7 +1,7 @@
 # AnimeDex
 
-**Nama:** Isi Nama Mahasiswa  
-**NIM:** Isi NIM Mahasiswa
+**Nama:** Nasykhariyanda Pratama      
+**NIM:** 205410181
 
 AnimeDex adalah aplikasi Android native berbasis Kotlin dan Jetpack Compose untuk menampilkan daftar anime dari API publik AniList. Aplikasi memakai arsitektur MVVM, Navigation Compose, StateFlow, Retrofit, Gson Converter, Coil AsyncImage, dan Coroutines.
 
