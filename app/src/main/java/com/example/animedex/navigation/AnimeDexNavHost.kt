@@ -11,7 +11,7 @@ import com.example.animedex.ui.screen.HomeScreen
 
 @Composable
 fun AnimeDexNavHost() {
-    // Inisialisasi Navigation: NavController mengatur perpindahan Home ke Detail.
+    // NavController mengatur perpindahan Home ke Detail.
     val navController = rememberNavController()
 
     NavHost(
