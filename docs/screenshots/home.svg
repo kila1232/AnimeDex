@@ -1,0 +1,36 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="34" fill="#0B0F14"/>
+  <rect x="22" y="58" width="132" height="30" rx="8" fill="#0B0F14"/>
+  <text x="22" y="82" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="26" font-weight="700">AnimeDex</text>
+  <rect x="18" y="112" width="354" height="54" rx="27" fill="#151B23" stroke="#F97316"/>
+  <circle cx="45" cy="139" r="8" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M51 145L58 152" stroke="#D1D5DB" stroke-width="2" stroke-linecap="round"/>
+  <text x="74" y="145" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="15">Cari anime favorit...</text>
+  <g transform="translate(18 190)">
+    <rect width="354" height="156" rx="20" fill="#151B23"/>
+    <rect x="12" y="12" width="92" height="132" rx="18" fill="#F97316"/>
+    <polygon points="49,53 49,103 84,78" fill="#FFFFFF"/>
+    <text x="122" y="45" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="18" font-weight="700">Fullmetal Alchemist</text>
+    <text x="122" y="75" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">★ 9.1</text>
+    <text x="122" y="103" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">● Finished Airing</text>
+    <text x="122" y="131" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">▶ 64 episode</text>
+  </g>
+  <g transform="translate(18 362)">
+    <rect width="354" height="156" rx="20" fill="#151B23"/>
+    <rect x="12" y="12" width="92" height="132" rx="18" fill="#2DD4BF"/>
+    <polygon points="49,53 49,103 84,78" fill="#06211E"/>
+    <text x="122" y="45" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="18" font-weight="700">Attack on Titan</text>
+    <text x="122" y="75" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">★ 8.6</text>
+    <text x="122" y="103" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">● Finished Airing</text>
+    <text x="122" y="131" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">▶ 25 episode</text>
+  </g>
+  <g transform="translate(18 534)">
+    <rect width="354" height="156" rx="20" fill="#151B23"/>
+    <rect x="12" y="12" width="92" height="132" rx="18" fill="#222B36"/>
+    <polygon points="49,53 49,103 84,78" fill="#F97316"/>
+    <text x="122" y="45" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="18" font-weight="700">Demon Slayer</text>
+    <text x="122" y="75" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">★ 8.5</text>
+    <text x="122" y="103" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">● Currently Airing</text>
+    <text x="122" y="131" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">▶ 26 episode</text>
+  </g>
+</svg>

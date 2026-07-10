@@ -1,0 +1,21 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="34" fill="#0B0F14"/>
+  <path d="M35 74H66" stroke="#F9FAFB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M47 62L35 74L47 86" stroke="#F9FAFB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="82" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="21" font-weight="700">Detail Anime</text>
+  <rect x="18" y="112" width="354" height="420" rx="24" fill="#F97316"/>
+  <circle cx="195" cy="308" r="82" fill="#111827" opacity="0.2"/>
+  <polygon points="164,250 164,366 246,308" fill="#FFFFFF"/>
+  <text x="18" y="580" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="24" font-weight="700">Fullmetal Alchemist</text>
+  <text x="18" y="612" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">Two brothers search for the Philosopher's Stone</text>
+  <text x="18" y="633" fill="#D1D5DB" font-family="Arial, sans-serif" font-size="14">after an alchemy experiment goes wrong.</text>
+  <rect x="18" y="666" width="354" height="142" rx="20" fill="#151B23"/>
+  <text x="38" y="700" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Genre</text>
+  <text x="112" y="700" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="14">Action, Adventure, Drama</text>
+  <text x="38" y="728" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Rating</text>
+  <text x="112" y="728" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="14">R - 17+</text>
+  <text x="38" y="756" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Episode</text>
+  <text x="112" y="756" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="14">64</text>
+  <text x="38" y="784" fill="#2DD4BF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Studio</text>
+  <text x="112" y="784" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="14">Bones</text>
+</svg>
