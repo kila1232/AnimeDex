@@ -79,9 +79,11 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## Screenshot Aplikasi
 
-| Home | Detail |
-| --- | --- |
-| <img src="docs/screenshots/home-1.jpeg" alt="Screenshot Home" width="260"/> | <img src="docs/screenshots/detail-1.jpeg/detail-1.jpeg" alt="Screenshot Detail" width="260"/> |
+Geser ke kanan/kiri untuk melihat tampilan Home dan Detail secara ringkas.
+
+| Home 1 | Home 2 | Detail 1 | Detail 2 |
+| --- | --- | --- | --- |
+| <img src="docs/screenshots/home-1.jpeg" alt="Screenshot Home 1" width="180"/> | <img src="docs/screenshots/home-2.jpeg" alt="Screenshot Home 2" width="180"/> | <img src="docs/screenshots/detail-1.jpeg" alt="Screenshot Detail 1" width="180"/> | <img src="docs/screenshots/detail-2.jpeg" alt="Screenshot Detail 2" width="180"/> |
 
 ## API yang Digunakan
 
