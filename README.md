@@ -81,7 +81,7 @@ app/build/outputs/apk/debug/app-debug.apk
 
 | Home | Detail |
 | --- | --- |
-| <img src="docs/screenshots/home-1.jpeg" alt="Screenshot Home" width="260"/> | <img src="docs/screenshots/detail-1.jpeg" alt="Screenshot Detail" width="260"/> |
+| <img src="docs/screenshots/home-1.jpeg" alt="Screenshot Home" width="260"/> | <img src="docs/screenshots/detail-1.jpeg/detail-1.jpeg" alt="Screenshot Detail" width="260"/> |
 
 ## API yang Digunakan
 
