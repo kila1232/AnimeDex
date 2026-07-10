@@ -64,3 +64,13 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 }
+
+tasks.register<Copy>("renameDebugApk") {
+    from(layout.buildDirectory.file("outputs/apk/debug/app-debug.apk"))
+    into(layout.buildDirectory.dir("outputs/apk/debug"))
+    rename { "AnimeDex.apk" }
+}
+
+tasks.named("assembleDebug") {
+    finalizedBy("renameDebugApk")
+}

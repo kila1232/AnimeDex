@@ -60,7 +60,7 @@ app/
 APK debug akan berada di:
 
 ```text
-app/build/outputs/apk/debug/app-debug.apk
+app/build/outputs/apk/debug/AnimeDex.apk
 ```
 
 ## Dependency Utama
