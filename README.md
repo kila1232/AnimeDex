@@ -79,11 +79,15 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## Screenshot Home
 
-![Screenshot Home](docs/screenshots/home.svg)
+![Screenshot Home 1](docs/screenshots/home-1.jpeg)
+
+![Screenshot Home 2](docs/screenshots/home-2.jpeg)
 
 ## Screenshot Detail
 
-![Screenshot Detail](docs/screenshots/detail.svg)
+![Screenshot Detail 1](docs/screenshots/detail-1.jpeg)
+
+![Screenshot Detail 2](docs/screenshots/detail-2.jpeg)
 
 ## API yang Digunakan
 
